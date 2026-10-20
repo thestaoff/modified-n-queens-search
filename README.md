@@ -29,4 +29,3 @@ The included runner evaluates board sizes 4 through 8 and prints the solution co
 ## Complexity note
 
 The state space grows rapidly with `N`. BFS and UCS can require substantial time and memory on larger boards; use smaller values while experimenting with the model or heuristic.
-
